@@ -1,0 +1,1 @@
+EMAIL_TEMPLATE = "Hello, this is an automated email."

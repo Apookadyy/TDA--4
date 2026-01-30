@@ -1,0 +1,7 @@
+System Performance Report
+-------------------------
+CPU Usage   : {{ cpu }} %
+Memory Used : {{ memory }} %
+Disk Usage  : {{ disk }} %
+
+Generated On: {{ timestamp }}

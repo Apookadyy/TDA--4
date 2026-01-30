@@ -1,0 +1,7 @@
+Automation Suite Summary Report
+--------------------------------
+Total Tasks Executed : {{ total_tasks }}
+Successful Tasks    : {{ success }}
+Failed Tasks        : {{ failed }}
+
+Report Generated On : {{ timestamp }}
